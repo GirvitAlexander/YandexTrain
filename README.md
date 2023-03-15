@@ -1,1 +1,1 @@
-# YandexTrain_3.0
+# YandexTrain
